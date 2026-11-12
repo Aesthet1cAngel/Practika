@@ -1,0 +1,12 @@
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Русских\Новая папка\RecipeBook_V1\RecipeBook v1.1\Книга рецептов\bin\x64\Debug\Recipes.accdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Русских\Новая папка\RecipeBook_V1\RecipeBook v1.1\Книга рецептов\bin\x64\Debug\Книга рецептов.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Русских\Новая папка\RecipeBook_V1\RecipeBook v1.1\Книга рецептов\bin\x64\Debug\Книга рецептов.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Русских\Новая папка\RecipeBook_V1\RecipeBook v1.1\Книга рецептов\bin\x64\Debug\Книга рецептов.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Русских\Новая папка\RecipeBook_V1\RecipeBook v1.1\Книга рецептов\obj\x64\Debug\Книга рецептов.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Русских\Новая папка\RecipeBook_V1\RecipeBook v1.1\Книга рецептов\obj\x64\Debug\Книга_рецептов.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Русских\Новая папка\RecipeBook_V1\RecipeBook v1.1\Книга рецептов\obj\x64\Debug\Книга_рецептов.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Русских\Новая папка\RecipeBook_V1\RecipeBook v1.1\Книга рецептов\obj\x64\Debug\Книга рецептов.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Русских\Новая папка\RecipeBook_V1\RecipeBook v1.1\Книга рецептов\obj\x64\Debug\Книга рецептов.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Русских\Новая папка\RecipeBook_V1\RecipeBook v1.1\Книга рецептов\obj\x64\Debug\Книга рецептов.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Русских\Новая папка\RecipeBook_V1\RecipeBook v1.1\Книга рецептов\obj\x64\Debug\Книга рецептов.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Русских\Новая папка\RecipeBook_V1\RecipeBook v1.1\Книга рецептов\obj\x64\Debug\Книга_рецептов.AddRecipeForm.resources
